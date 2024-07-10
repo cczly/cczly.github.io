@@ -1,5 +1,5 @@
 ---
-permalink: https://cczly.github.io/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true

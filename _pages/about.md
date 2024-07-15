@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at Suzhou Institute for advanced research, USTC as a postdoc now in Suzhou.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am now working on audio-driven talking face generation, three-dimensional reconstruction and multi-modal large model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. We are hiring interns!
 
+My research interest includes Image/video generation, three-dimensional reconstruction and multi-modal large model. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 Fundings
+- *2024.07*: &nbsp;🎉🎉 Youth Fund of Jiangsu Provincial Basic Research Program (Natural Science Foundation).
+- *2023.07*: &nbsp;🎉🎉 Special Fund of The China Postdoctoral Science Foundation. 
+- *2023.06*: &nbsp;🎉🎉 General Fund of The China Postdoctoral Science Foundation. 
+- *2023.06*: &nbsp;🎉🎉 The Jiangsu Funding Program for Excellent Postdoctoral Talent.
 
 # 📝 Publications 
 

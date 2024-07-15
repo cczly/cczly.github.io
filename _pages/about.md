@@ -30,8 +30,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 - *2023.02*: &nbsp;🎉 A journal article is accepted by IEEE TIM.
 - *2022.10*: &nbsp;🎉 A journal article is accepted by IEEE TMM.
 - *2022.06*: &nbsp;🎉 A conference paper is accepted by IEEE CVPR2022.
-- *2022.06*: &nbsp;🎉 A conference paper is accepted by IEEE CVPR2022.
-- *2022.06*: &nbsp;🎉 A conference paper is accepted by IEEE CVPR2022.
+- *2022.06*: [More](https://scholar.google.com/citations?user=yfcI9FcAAAAJ&hl=zh-CN) 
 
 # 🎖 Honors and Awards
 - *2023*:&nbsp;🎉🎉 Outstanding Postdoctoral Fellow in Jiangsu Province.

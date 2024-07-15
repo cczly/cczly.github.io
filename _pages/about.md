@@ -24,6 +24,14 @@ I am now working on audio-driven talking face generation, three-dimensional reco
 My research interest includes Image/video generation, three-dimensional reconstruction and multi-modal large model. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉 A journal article is accepted by IEEE TCSVT.
+- *2024.01*: &nbsp;🎉 A journal article is accepted by IEEE TIP.
+- *2023.12*: &nbsp;🎉 A conference paper is accepted by IEEE ICASSP2024.
+- *2023.02*: &nbsp;🎉 A journal article is accepted by IEEE TIM.
+- *2022.10*: &nbsp;🎉 A journal article is accepted by IEEE TMM.
+- *2022.06*: &nbsp;🎉 A conference paper is accepted by IEEE CVPR2022.
+- *2022.06*: &nbsp;🎉 A conference paper is accepted by IEEE CVPR2022.
+- *2022.06*: &nbsp;🎉 A conference paper is accepted by IEEE CVPR2022.
 
 # 🎖 Honors and Awards
 - *2023*:&nbsp;🎉🎉 Outstanding Postdoctoral Fellow in Jiangsu Province.

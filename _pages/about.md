@@ -17,11 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Suzhou Institute for advanced research, USTC as a postdoc now in Suzhou.
+I work at Suzhou Institute for advanced research, USTC as a Postdoctoral now in Suzhou.
 
 I am now working on audio-driven talking face generation, three-dimensional reconstruction and multi-modal large model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. We are hiring interns!
 
 My research interest includes Image/video generation, three-dimensional reconstruction and multi-modal large model. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
+
+# 🎖 Honors and Awards
+- *2023* Outstanding Postdoctoral Fellow in Jiangsu Province.
+- *2022* Outstanding Graduate Student of Shanghai. 
+- *2022* Shanghai Computer Society's Outstanding Doctoral Dissertation Award (Nominated).
 
 # 🔥 Fundings
 - *2024.07*: &nbsp;🎉🎉 Youth Fund of Jiangsu Provincial Basic Research Program (Natural Science Foundation).
@@ -45,17 +50,6 @@ My research interest includes Image/video generation, three-dimensional reconstr
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

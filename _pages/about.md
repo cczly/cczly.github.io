@@ -45,6 +45,8 @@ My research interest includes Image/video generation, three-dimensional reconstr
 **Face Analysis and Synthesis**
 
 <ul>
+  <li><code class="language-plaintext highlighter-rouge">ACM MM 2020</code> <a href="https://www.sciencedirect.com/science/article/pii/S0031320320301576">Learning spatial-temporal deformable networks for unconstrained face alignment and tracking in videos</a>, Hongyu Zhu, Hao Liu, <strong>Congcong Zhu</strong>, Zongyong Deng, Xuehong Sun. </a></li>
+  <li><code class="language-plaintext highlighter-rouge">ACM MM 2020</code> <a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413993">Spatial-temporal knowledge integration: Robust self-supervised facial landmark tracking</a>, <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </a></li>
   <li><code class="language-plaintext highlighter-rouge">AAAI 2020</code> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/7011">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos</a>, <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </a></li>
 </ul>
 

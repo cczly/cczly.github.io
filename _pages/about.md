@@ -45,7 +45,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 **Face Analysis and Synthesis**
 
 <ul>
-  <li><code class="language-plaintext highlighter-rouge">AAAI 2020</code> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/7011">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos.</a>, <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </a></li>
+  <li><code class="language-plaintext highlighter-rouge">AAAI 2020</code> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/7011">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos</a>, <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </a></li>
 </ul>
 
 

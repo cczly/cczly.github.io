@@ -45,7 +45,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 **Face Analysis and Synthesis**
 
 <ul>
-  
+  <li><code class="language-plaintext highlighter-rouge">IEEE TMM</code> <a href="https://arxiv.org/pdf/2112.10087">Multi-Sourced Knowledge Integration for Robust Self-Supervised Facial Landmark Tracking</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai, Weiqin Tong </a></li>
   <li><code class="language-plaintext highlighter-rouge">Pattern Recognition</code> <a href="https://arxiv.org/pdf/2112.10087">Reasoning structural relation for occlusion-robust facial landmark localization</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai, Weiqin Tong </a></li>
   <li><code class="language-plaintext highlighter-rouge">CVPR2022</code> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Occlusion-Robust_Face_Alignment_Using_a_Viewpoint-Invariant_Hierarchical_Network_Architecture_CVPR_2022_paper.pdf">Occlusion-robust face alignment using a viewpoint-invariant hierarchical network architecture</a>, <strong>Congcong Zhu</strong>, Xintong Wan, Shaorong Xie, Xiaoqiang Li, Yinzheng Gu </a></li>
   <li><code class="language-plaintext highlighter-rouge">ICCV2021</code> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Robustness_of_Facial_Landmark_Detection_by_Defending_Against_Adversarial_ICCV_2021_paper.pdf">Improving robustness of facial landmark detection by defending against adversarial attacks</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai </a></li>

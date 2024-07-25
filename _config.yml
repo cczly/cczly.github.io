@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Congcong Zhu (朱聪聪)  - Homepage"
-description              : "My Academic Homepage. "
+title                    : "Congcong Zhu (朱聪聪) - Homepage"
+description              : "cczly@ustc.edu.cn "
 repository               : "cczly/cczly.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -137,7 +137,6 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:

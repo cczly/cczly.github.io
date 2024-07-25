@@ -38,6 +38,14 @@ My research interest includes Image/video generation, three-dimensional reconstr
 - **2022**:&nbsp;🎉 Outstanding Graduate Student of Shanghai. 
 - **2022**:&nbsp;🎉 Shanghai Computer Society's Outstanding Doctoral Dissertation Award (Nominated).
 
+<span class='anchor' id='-fundings'></span>
+
+# 💴 Fundings
+- **2024.07**: &nbsp;🎉🎉 Youth Fund of Jiangsu Provincial Basic Research Program (Natural Science Foundation).
+- **2023.07**: &nbsp;🎉🎉 Special Fund of The China Postdoctoral Science Foundation. 
+- **2023.06**: &nbsp;🎉🎉 General Fund of The China Postdoctoral Science Foundation. 
+- **2023.06**: &nbsp;🎉🎉 The Jiangsu Funding Program for Excellent Postdoctoral Talent.
+
 <span class='anchor' id='-research-highlights'></span>
 
 # 🔍Research Highlights

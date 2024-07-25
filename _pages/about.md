@@ -25,25 +25,25 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉 Received the Youth Fund from the Jiangsu Province Basic Research Program.
-- *2024.06*: &nbsp;🎉 A journal article is accepted by IEEE TCSVT.
-- *2024.01*: &nbsp;🎉 A journal article is accepted by IEEE TIP.
-- *2023.12*: &nbsp;🎉 A conference paper is accepted by IEEE ICASSP2024.
-- *2023.07*: &nbsp;🎉 Received the Special Fund of The China Postdoctoral Science Foundation. 
+- **2024.06**: &nbsp;🎉 Received the Youth Fund from the Jiangsu Province Basic Research Program.
+- **2024.06**: &nbsp;🎉 A journal article is accepted by IEEE TCSVT.
+- **2024.01**: &nbsp;🎉 A journal article is accepted by IEEE TIP.
+- **2023.12**: &nbsp;🎉 A conference paper is accepted by IEEE ICASSP2024.
+- **2023.07**: &nbsp;🎉 Received the Special Fund of The China Postdoctoral Science Foundation. 
 
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- *2023*:&nbsp;🎉 Outstanding Postdoctoral Fellow in Jiangsu Province.
-- *2022*:&nbsp;🎉 Outstanding Graduate Student of Shanghai. 
-- *2022*:&nbsp;🎉 Shanghai Computer Society's Outstanding Doctoral Dissertation Award (Nominated).
+- **2023**:&nbsp;🎉 Outstanding Postdoctoral Fellow in Jiangsu Province.
+- **2022**:&nbsp;🎉 Outstanding Graduate Student of Shanghai. 
+- **2022**:&nbsp;🎉 Shanghai Computer Society's Outstanding Doctoral Dissertation Award (Nominated).
 
 <span class='anchor' id='-research-highlights'></span>
 
 # 🔍Research Highlights
-- *Face Analysis and Synthesis*: &nbsp; Including face alignment, age estimation, talking face synthesis, video re-dubbing, etc.
-- *Physics-informed Visual Computing*: &nbsp; Including 3D reconstruction, novel view synthesis, dynamic rendering, etc.
-- *Knowledge Compression of Visual language Models*: &nbsp; Including low-rank learning of large models, mixture of expert systems, reflective learning, etc.
+- **Face Analysis and Synthesis**: &nbsp; Including face alignment, age estimation, talking face synthesis, video re-dubbing, etc.
+- **Physics-informed Visual Computing**: &nbsp; Including 3D reconstruction, novel view synthesis, dynamic rendering, etc.
+- **Knowledge Compression of Visual language Models**: &nbsp; Including low-rank learning of large models, mixture of expert systems, reflective learning, etc.
 
 <span class='anchor' id='-publications'></span>
 

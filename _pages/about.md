@@ -53,7 +53,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 # 🔍Research Highlights
 - **Face Analysis and Synthesis**: &nbsp; Including face alignment, age estimation, talking face synthesis, video re-dubbing, etc.
 - **Physics-informed Visual Computing**: &nbsp; Including 3D reconstruction, novel view synthesis, dynamic rendering, etc.
-- **Knowledge Compression of Visual language Models**: &nbsp; Including low-rank learning of large models, mixture of expert systems, reflective learning, etc.
+- **Knowledge Compression of Visual Language Models**: &nbsp; Including low-rank learning of large models, mixture of expert systems, reflective learning, etc.
 
 <span class='anchor' id='-publications'></span>
 
@@ -73,5 +73,5 @@ My research interest includes Image/video generation, three-dimensional reconstr
   <li><code class="language-plaintext highlighter-rouge">AAAI 2020</code> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/7011">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos</a>, <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </li>
 </ul>
 
-
-
+# Acknowledgement
+Thanks for this convenient [template](https://github.com/RayeRen/acad-homepage.github.io).

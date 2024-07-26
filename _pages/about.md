@@ -37,6 +37,8 @@ My research interest includes Image/video generation, three-dimensional reconstr
 - **2023**:&nbsp;🎉 Outstanding Postdoctoral Fellow in Jiangsu Province.
 - **2022**:&nbsp;🎉 Outstanding Graduate Student of Shanghai. 
 - **2022**:&nbsp;🎉 Shanghai Computer Society's Outstanding Doctoral Dissertation Award (Nominated).
+- **2021**:&nbsp;🎉 Doctoral National Scholarship.
+- **2020**:&nbsp;🎉 Doctoral National Scholarship.
 
 <span class='anchor' id='-fundings'></span>
 

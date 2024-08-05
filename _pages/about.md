@@ -15,7 +15,7 @@ redirect_from:
 {% endif %} 
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='-about-me'></span>
+<span class='anchor' id='-about-me'></span> 
 
 # 😃 About Me
 I work at Suzhou Institute for advanced research, USTC as a Postdoctoral Fellow now in Suzhou. I am now working on AI for science. If you are seeking any form of academic cooperation, please feel free to email me at **cczly@ustc.edu.cn**. We are hiring interns!
@@ -43,10 +43,10 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-fundings'></span>
 
 # 💴 Fundings
-- **2024.07**: &nbsp;🎉🎉 Youth Fund of Jiangsu Provincial Basic Research Program (Natural Science Foundation).
-- **2023.07**: &nbsp;🎉🎉 Special Fund of The China Postdoctoral Science Foundation. 
-- **2023.06**: &nbsp;🎉🎉 General Fund of The China Postdoctoral Science Foundation. 
-- **2023.06**: &nbsp;🎉🎉 The Jiangsu Funding Program for Excellent Postdoctoral Talent.
+- **2024.07**: &nbsp;🎉 Youth Fund of Jiangsu Provincial Basic Research Program (Natural Science Foundation).
+- **2023.07**: &nbsp;🎉 Special Fund of The China Postdoctoral Science Foundation. 
+- **2023.06**: &nbsp;🎉 General Fund of The China Postdoctoral Science Foundation. 
+- **2023.06**: &nbsp;🎉 The Jiangsu Funding Program for Excellent Postdoctoral Talent.
 
 <span class='anchor' id='-research-highlights'></span>
 
@@ -58,6 +58,8 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-publications'></span>
 
 # 📝 Publications 
+(*, Corresponding Author)
+
 **Face Analysis and Synthesis**
 <ul>
   <li><code class="language-plaintext highlighter-rouge">IEEE TCSVT</code> <a href="https://ieeexplore.ieee.org/abstract/document/10583942">Toward Quantifiable Face Age Transformation under Attribute Unbias</a>, Ling Lin, Tao Wang, Hao Liu, <strong>Congcong Zhu*</strong>, Jingrun Chen</li>

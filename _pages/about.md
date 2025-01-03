@@ -75,70 +75,70 @@ My research interest includes Image/video generation, three-dimensional reconstr
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  IEEE ICASSP
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/10448304">Toward Quantifiable Face age Transformation</a>, Ling Lin, <strong>Congcong Zhu*</strong>, Lin Zhou, Jingrun Chen</li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  IEEE TIP
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/10462910">HeadDiff: Exploring Rotation Uncertainty With Diffusion Models for Head Pose Estimation</a>, Yaoxing Wang, Hao Liu, Yaowei Feng, Zhendong Li, Xiangjuan Wu, <strong>Congcong Zhu</strong></li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  IEEE TIM
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/10049177">A multi-scale feature fusion network with cascaded supervision for cross-scene crowd counting</a>, Xinfeng Zhang, Lina Han, Wencong Shan, Xiaohu Wang, Shuhan Chen, <strong>Congcong Zhu</strong>, Bin Li</li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  IEE TMM
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/9911664">Multi-Sourced Knowledge Integration for Robust Self-Supervised Facial Landmark Tracking</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai, Weiqin Tong </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  PR
 </code> <a href="https://arxiv.org/pdf/2112.10087">Reasoning structural relation for occlusion-robust facial landmark localization</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai, Weiqin Tong </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  CVPR
 </code> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Occlusion-Robust_Face_Alignment_Using_a_Viewpoint-Invariant_Hierarchical_Network_Architecture_CVPR_2022_paper.pdf">Occlusion-robust face alignment using a viewpoint-invariant hierarchical network architecture</a>, <strong>Congcong Zhu</strong>, Xintong Wan, Shaorong Xie, Xiaoqiang Li, Yinzheng Gu </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  ICCV
 </code> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Robustness_of_Facial_Landmark_Detection_by_Defending_Against_Adversarial_ICCV_2021_paper.pdf">Improving robustness of facial landmark detection by defending against adversarial attacks</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  PR
 </code> <a href="https://www.sciencedirect.com/science/article/pii/S0031320320301576">Learning spatial-temporal deformable networks for unconstrained face alignment and tracking in videos</a>, Hongyu Zhu, Hao Liu, <strong>Congcong Zhu</strong>, Zongyong Deng, Xuehong Sun. </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  ACM MM
 </code> <a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413993">Spatial-temporal knowledge integration: Robust self-supervised facial landmark tracking</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Guangtai Ding, Weiqin Tong. </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE TCSVT
+  AAAI
 </code> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/7011">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos</a>, <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </li>
 </ul>
 

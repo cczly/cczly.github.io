@@ -75,7 +75,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEEE ICASSP
+  ICASSP
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/10448304">Toward Quantifiable Face age Transformation</a>, Ling Lin, <strong>Congcong Zhu*</strong>, Lin Zhou, Jingrun Chen</li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

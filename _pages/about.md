@@ -63,8 +63,8 @@ My research interest includes Image/video generation, three-dimensional reconstr
 **Face Analysis and Synthesis**
 <ul>
   <li><code class="language-plaintext highlighter-rouge" 
-      style="background-color: #e6f7ff; 
-             border: 1px solid #91d5ff; 
+      style="background-color: #001f3f; 
+             color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
   IEEE TCSVT

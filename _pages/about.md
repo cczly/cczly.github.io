@@ -96,7 +96,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IEE TMM
+  IEEE TMM
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/9911664">Multi-Sourced Knowledge Integration for Robust Self-Supervised Facial Landmark Tracking</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai, Weiqin Tong </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

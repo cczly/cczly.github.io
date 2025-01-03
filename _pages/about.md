@@ -19,13 +19,13 @@ redirect_from:
 
 I work at Suzhou Institute for advanced research, USTC as an Associate Researcher (master supervisor) now in Suzhou.
 
-I am now working on audio-driven talking face generation, three-dimensional reconstruction and multi-modal large model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. We are hiring interns!
+I am now working on audio-driven talking face generation, three-dimensional reconstruction and multi-modal large model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. There are openings for master's students and interns.
 
 My research interest includes Image/video generation, three-dimensional reconstruction and multi-modal large model. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
 
 <span class='anchor' id='-news'></span>
 
-# 🔥 News
+# 🔥 News 
 - *2025.01*: &nbsp;🎉 Promoted to Associate Researcher (master supervisor).
 - *2024.06*: &nbsp;🎉 Received the Youth Fund from the Jiangsu Province Basic Research Program.
 - *2024.06*: &nbsp;🎉 A journal article is accepted by IEEE TCSVT.
@@ -51,7 +51,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-research-highlights'></span>
 
 # 🔍Research Highlights
-- **Face Analysis and Synthesis**: &nbsp; Including face alignment, age estimation, talking face synthesis, video re-dubbing, etc.
+- **Face Analysis and Synthesis**: &nbsp; Including talking face synthesis and video re-dubbing.
 - **Physics-informed Visual Computing**: &nbsp; Including 3D reconstruction, novel view synthesis, dynamic rendering, etc.
 - **Knowledge Compression of Visual Language Models**: &nbsp; Including low-rank learning of large models, mixture of expert systems, reflective learning, etc.
 
@@ -62,7 +62,14 @@ My research interest includes Image/video generation, three-dimensional reconstr
 
 **Face Analysis and Synthesis**
 <ul>
-  <li><code class="language-plaintext highlighter-rouge">IEEE TCSVT</code> <a href="https://ieeexplore.ieee.org/abstract/document/10583942">Toward Quantifiable Face Age Transformation under Attribute Unbias</a>, Ling Lin, Tao Wang, Hao Liu, <strong>Congcong Zhu*</strong>, Jingrun Chen</li>
+  <li><code class="language-plaintext highlighter-rouge" 
+      style="background-color: #e6f7ff; 
+             border: 1px solid #91d5ff; 
+             padding: 2px 4px; 
+             border-radius: 4px;">
+  IEEE TCSVT
+</code>
+ <a href="https://ieeexplore.ieee.org/abstract/document/10583942">Toward Quantifiable Face Age Transformation under Attribute Unbias</a>, Ling Lin, Tao Wang, Hao Liu, <strong>Congcong Zhu*</strong>, Jingrun Chen</li>
   <li><code class="language-plaintext highlighter-rouge">ICASSP2024</code> <a href="https://ieeexplore.ieee.org/abstract/document/10448304">Toward Quantifiable Face age Transformation</a>, Ling Lin, <strong>Congcong Zhu*</strong>, Lin Zhou, Jingrun Chen</li>
   <li><code class="language-plaintext highlighter-rouge">IEEE TIP</code> <a href="https://ieeexplore.ieee.org/abstract/document/10462910">HeadDiff: Exploring Rotation Uncertainty With Diffusion Models for Head Pose Estimation</a>, Yaoxing Wang, Hao Liu, Yaowei Feng, Zhendong Li, Xiangjuan Wu, <strong>Congcong Zhu</strong></li>
   <li><code class="language-plaintext highlighter-rouge">IEEE TIM</code> <a href="https://ieeexplore.ieee.org/abstract/document/10049177">A multi-scale feature fusion network with cascaded supervision for cross-scene crowd counting</a>, Xinfeng Zhang, Lina Han, Wencong Shan, Xiaohu Wang, Shuhan Chen, <strong>Congcong Zhu</strong>, Bin Li</li>

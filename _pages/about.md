@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at Suzhou Institute for advanced research, USTC as a Postdoctoral now in Suzhou.
+I work at Suzhou Institute for advanced research, USTC as an Associate Researcher (master supervisor) now in Suzhou.
 
 I am now working on audio-driven talking face generation, three-dimensional reconstruction and multi-modal large model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. We are hiring interns!
 
 My research interest includes Image/video generation, three-dimensional reconstruction and multi-modal large model. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 Promoted to Associate Researcher (master supervisor).
 - *2024.06*: &nbsp;🎉 Received the Youth Fund from the Jiangsu Province Basic Research Program.
 - *2024.06*: &nbsp;🎉 A journal article is accepted by IEEE TCSVT.
 - *2024.01*: &nbsp;🎉 A journal article is accepted by IEEE TIP.

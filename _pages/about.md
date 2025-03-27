@@ -26,6 +26,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-news'></span>
 
 # 🔥 News 
+- *2025.03*: &nbsp;🎉 A conference paper is accepted by IEEE ICME2025.
 - *2025.01*: &nbsp;🎉 Promoted to Associate Researcher (master supervisor).
 - *2024.06*: &nbsp;🎉 Received the Youth Fund from the Jiangsu Province Basic Research Program.
 - *2024.06*: &nbsp;🎉 A journal article is accepted by IEEE TCSVT.
@@ -67,9 +68,21 @@ My research interest includes Image/video generation, three-dimensional reconstr
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
+  ICME
+</code> <a href="https://ieeexplore.ieee.org/abstract/document/10448304">STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing</a>, Zijun Ding
+, Mingdie Xiong
+, <strong>Congcong Zhu*</strong>
+, Jingrun Chen </li>
+
+  <li><code class="language-plaintext highlighter-rouge" 
+      style="background-color: #001f3f; 
+             color: #ffffff; 
+             padding: 2px 4px; 
+             border-radius: 4px;">
   IEEE TCSVT
 </code>
  <a href="https://ieeexplore.ieee.org/abstract/document/10583942">Toward Quantifiable Face Age Transformation under Attribute Unbias</a>, Ling Lin, Tao Wang, Hao Liu, <strong>Congcong Zhu*</strong>, Jingrun Chen</li>
+
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
@@ -77,6 +90,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
              border-radius: 4px;">
   ICASSP
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/10448304">Toward Quantifiable Face age Transformation</a>, Ling Lin, <strong>Congcong Zhu*</strong>, Lin Zhou, Jingrun Chen</li>
+
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 

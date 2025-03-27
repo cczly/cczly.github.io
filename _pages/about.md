@@ -61,7 +61,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 # 📝 Publications 
 (*, Corresponding Author)
 
-**Face Analysis and Synthesis**
+
 <ul>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

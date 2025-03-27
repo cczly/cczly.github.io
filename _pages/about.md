@@ -52,7 +52,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-research-highlights'></span>
 
 # 🔍Research Highlights
-- **Face Analysis and Synthesis**: &nbsp; Including talking face synthesis and video re-dubbing.
+- **Motion Analysis and Synthesis**: &nbsp; Including human motion generation talking face synthesis.
 - **Physics-informed Visual Computing**: &nbsp; Including 3D reconstruction, novel view synthesis, dynamic rendering, etc.
 - **Knowledge Compression of Visual Language Models**: &nbsp; Including low-rank learning of large models, mixture of expert systems, reflective learning, etc.
 
@@ -70,8 +70,8 @@ My research interest includes Image/video generation, three-dimensional reconstr
              border-radius: 4px;">
   ICME
 </code> <code class="language-plaintext highlighter-rouge" 
-      style="background-color:rgb(59, 63, 0); 
-             color:rgb(255, 255, 255); 
+      style="background-color:rgb(236, 236, 233); 
+             color:rgb(76, 59, 226); 
              padding: 2px 4px; 
              border-radius: 4px;">
  <a href="https://github.com/SCAILab-USTC/STSA">Code</a> 

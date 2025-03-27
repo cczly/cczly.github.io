@@ -69,10 +69,16 @@ My research interest includes Image/video generation, three-dimensional reconstr
              padding: 2px 4px; 
              border-radius: 4px;">
   ICME
+</code> <code class="language-plaintext highlighter-rouge" 
+      style="background-color:rgb(59, 63, 0); 
+             color:rgb(255, 255, 255); 
+             padding: 2px 4px; 
+             border-radius: 4px;">
+ <a href="https://github.com/SCAILab-USTC/STSA">Code</a> 
 </code> <a href="https://github.com/SCAILab-USTC/STSA">STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing</a>, Zijun Ding
 , Mingdie Xiong
 , <strong>Congcong Zhu*</strong>
-, Jingrun Chen / <a href="https://github.com/SCAILab-USTC/STSA">Code</a> </li>
+, Jingrun Chen </li>
 
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

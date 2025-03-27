@@ -72,7 +72,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 </code> <a href="https://github.com/SCAILab-USTC/STSA">STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing</a>, Zijun Ding
 , Mingdie Xiong
 , <strong>Congcong Zhu*</strong>
-, Jingrun Chen <a href="https://github.com/SCAILab-USTC/STSA">Code</a> </li>
+, Jingrun Chen / <a href="https://github.com/SCAILab-USTC/STSA">Code</a> </li>
 
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

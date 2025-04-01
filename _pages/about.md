@@ -69,7 +69,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  IJCNN
+  IJCNN2025
 </code>
  Toward Invisible Region Restoration for Single-View 3D Face Reconstruction, Zhijing Cheng,
 YuQing Wen,
@@ -81,7 +81,7 @@ Rui Du</li>
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  ICME
+  ICME2025
 </code> <code class="language-plaintext highlighter-rouge" 
       style="background-color:rgb(236, 236, 233); 
              color:rgb(76, 59, 226); 
@@ -107,7 +107,7 @@ Rui Du</li>
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  ICASSP
+  ICASSP2024
 </code> <a href="https://ieeexplore.ieee.org/abstract/document/10448304">Toward Quantifiable Face age Transformation</a>, Ling Lin, <strong>Congcong Zhu*</strong>, Lin Zhou, Jingrun Chen</li>
 
   <li><code class="language-plaintext highlighter-rouge" 
@@ -143,14 +143,14 @@ Rui Du</li>
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  CVPR
+  CVPR2022
 </code> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Occlusion-Robust_Face_Alignment_Using_a_Viewpoint-Invariant_Hierarchical_Network_Architecture_CVPR_2022_paper.pdf">Occlusion-robust face alignment using a viewpoint-invariant hierarchical network architecture</a>, <strong>Congcong Zhu</strong>, Xintong Wan, Shaorong Xie, Xiaoqiang Li, Yinzheng Gu </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  ICCV
+  ICCV2021
 </code> <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Zhu_Improving_Robustness_of_Facial_Landmark_Detection_by_Defending_Against_Adversarial_ICCV_2021_paper.pdf">Improving robustness of facial landmark detection by defending against adversarial attacks</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
@@ -164,14 +164,14 @@ Rui Du</li>
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  ACM MM
+  ACM MM2020
 </code> <a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413993">Spatial-temporal knowledge integration: Robust self-supervised facial landmark tracking</a>, <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Guangtai Ding, Weiqin Tong. </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  AAAI
+  AAAI2020
 </code> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/7011">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos</a>, <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </li>
 </ul>
 

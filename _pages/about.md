@@ -88,7 +88,7 @@ Rui Du</li>
              padding: 2px 4px; 
              border-radius: 4px;">
  <a href="https://github.com/SCAILab-USTC/STSA">Code</a> 
-</code> <a href="https://github.com/SCAILab-USTC/STSA">STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing</a>, Zijun Ding
+</code> <a href="https://arxiv.org/abs/2503.23039">STSA: Spatial-Temporal Semantic Alignment for Visual Dubbing</a>, Zijun Ding
 , Mingdie Xiong
 , <strong>Congcong Zhu*</strong>
 , Jingrun Chen </li>

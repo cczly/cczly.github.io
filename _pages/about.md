@@ -26,7 +26,7 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-news'></span>
 
 # 🔥 News 
-- *2025.04*: &nbsp;🎉 A conference paper completed by undergraduate interns is accepted by IEEE IJCNN.
+- *2025.04*: &nbsp;🎉 A conference paper completed by undergraduate interns is accepted by IEEE IJCNN2025.
 - *2025.03*: &nbsp;🎉 A conference paper is accepted by IEEE ICME2025.
 - *2025.01*: &nbsp;🎉 Promoted to Associate Researcher (master supervisor).
 - *2024.06*: &nbsp;🎉 Received the Youth Fund from the Jiangsu Province Basic Research Program.

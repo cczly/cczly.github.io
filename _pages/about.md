@@ -61,8 +61,20 @@ My research interest includes Image/video generation, three-dimensional reconstr
 # 📝 Publications 
 (*, Corresponding Author)
 
-
+  
 <ul>
+  <li><code class="language-plaintext highlighter-rouge" 
+      style="background-color: #001f3f; 
+             color: #ffffff; 
+             padding: 2px 4px; 
+             border-radius: 4px;">
+  IJCNN
+</code>
+ Toward Invisible Region Restoration for Single-View 3D Face Reconstruction, Zhijing Cheng,
+YuQing Wen,
+<strong>Congcong Zhu*</strong>,
+Rui Du</li>
+
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 

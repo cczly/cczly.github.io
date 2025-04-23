@@ -19,9 +19,9 @@ redirect_from:
 
 I work at Suzhou Institute for advanced research, USTC as an Associate Researcher (master supervisor) now in Suzhou.
 
-I am now working on audio-driven talking face generation, three-dimensional reconstruction and multi-modal large model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. There are openings for master's students and interns.
+I am now working on Embodied AI, Three-dimensional Reconstruction and Multi-modal Large Model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. There are openings for master's students and interns.
 
-My research interest includes Image/video generation, three-dimensional reconstruction and multi-modal large model. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
+My research interest includes Embodied AI and Multimodal Content Generation and Understanding. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
 
 <span class='anchor' id='-news'></span>
 
@@ -53,9 +53,10 @@ My research interest includes Image/video generation, three-dimensional reconstr
 <span class='anchor' id='-research-highlights'></span>
 
 # 🔍Research Highlights
-- **Motion Analysis and Synthesis**: &nbsp; Including human motion generation talking face synthesis.
-- **Physics-informed Visual Computing**: &nbsp; Including 3D reconstruction, novel view synthesis, dynamic rendering, etc.
-- **Knowledge Compression of Visual Language Models**: &nbsp; Including low-rank learning of large models, mixture of expert systems, reflective learning, etc.
+- **Embodied AI Physics-informed Visual Computing**: &nbsp; Including visual-language-action model, scence geneation, dynamic rendering. 
+- **Physics-informed Visual Computing**: &nbsp; Including novel view synthesis, physics-informed dynamic and data-driven inverse problem. 
+- **Multimodal Content Generation and Understanding**: &nbsp; Including humanoid motion generation, video generation, low-rank learning of large models and mixture of expert systems.
+
 
 <span class='anchor' id='-publications'></span>
 

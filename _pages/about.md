@@ -19,7 +19,7 @@ redirect_from:
 
 I work at Suzhou Institute for advanced research, USTC as an Associate Researcher (master supervisor) now in Suzhou.
 
-I am now working on Embodied AI, Three-dimensional Reconstruction and Multi-modal Large Model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. There are openings for master's students and interns.
+I am now working on Embodied AI, Three-dimensional Reconstruction and Multi-modal Large Model. If you are seeking any form of academic cooperation, please feel free to email me at cczly@ustc.edu.cn. There are openings for PhD/master's students and interns.
 
 My research interest includes Embodied AI and Multimodal Content Generation and Understanding. I have published in several journals, such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and top conferences, such as CVPR, ICCV, AAAI, and ACM MM. I am nominated for the Shanghai Computer Society's Outstanding Doctoral Dissertation Award, received the honor of Outstanding Graduate Student of Shanghai, and was titled as an Outstanding Postdoctoral Fellow in Jiangsu Province, China.
 

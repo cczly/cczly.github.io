@@ -26,6 +26,7 @@ My research interest includes Embodied AI and Multimodal Content Generation and 
 <span class='anchor' id='-news'></span>
 
 # 🔥 News 
+- *2025.05*: &nbsp;🎉 Awarded the Huawei Spark Award for technical contributions to challenging problems in artificial intelligence.
 - *2025.05*: &nbsp;🎉 A conference paper is accepted by ICML2025.
 - *2025.04*: &nbsp;🎉 A conference paper completed by undergraduate interns is accepted by IEEE IJCNN2025.
 - *2025.03*: &nbsp;🎉 A conference paper is accepted by IEEE ICME2025.
@@ -37,6 +38,7 @@ My research interest includes Embodied AI and Multimodal Content Generation and 
 - *2023.07*: &nbsp;🎉 Received the Special Fund of The China Postdoctoral Science Foundation. 
 
 # 🎖 Honors and Awards
+- **2025**:&nbsp;🎉 Huawei Spark Prize（华为火花奖）.
 - **2023**:&nbsp;🎉 Outstanding Postdoctoral Fellow in Jiangsu Province.
 - **2022**:&nbsp;🎉 Outstanding Graduate Student of Shanghai. 
 - **2022**:&nbsp;🎉 Shanghai Computer Society's Outstanding Doctoral Dissertation Award (Nominated).

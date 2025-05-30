@@ -79,9 +79,9 @@ I have published in several journals, such as IEEE Transactions on Image Process
              color:rgb(76, 59, 226); 
              padding: 2px 4px; 
              border-radius: 4px;">
- <a href="https://github.com/SCAILab-USTC/STSA">Paper and Code are coming soon</a> 
+ <a href="https://github.com/SCAILab-USTC/PITA">Code</a> 
 </code> 
- Physics-informed Temporal Alignment for Auto-regressive PDE Foundation Models. <strong>Congcong Zhu</strong>, <strong>Xiaoyan Xu</strong>, Jiayue Han, Jingrun Chen
+ <a href="https://arxiv.org/pdf/2505.10930">Physics-informed Temporal Alignment for Auto-regressive PDE Foundation Models. <strong>Congcong Zhu</strong>, <strong>Xiaoyan Xu</strong>, Jiayue Han, Jingrun Chen
 </li>
 
 

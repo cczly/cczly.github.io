@@ -45,14 +45,6 @@ I have published in several journals, such as IEEE Transactions on Image Process
 - **2021**:&nbsp;🎉 Doctoral National Scholarship.
 - **2020**:&nbsp;🎉 Doctoral National Scholarship.
 
-<span class='anchor' id='-fundings'></span>
-
-# 💴 Fundings
-- **2024.07**: &nbsp;🎉 Youth Fund of Jiangsu Provincial Basic Research Program (Natural Science Foundation).
-- **2023.07**: &nbsp;🎉 Special Fund of The China Postdoctoral Science Foundation. 
-- **2023.06**: &nbsp;🎉 General Fund of The China Postdoctoral Science Foundation. 
-- **2023.06**: &nbsp;🎉 The Jiangsu Funding Program for Excellent Postdoctoral Talent.
-
 <span class='anchor' id='-research-highlights'></span>
 
 # 🔍Research Highlights

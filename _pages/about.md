@@ -49,7 +49,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
 <span class='anchor' id='-research-highlights'></span>
 
 # 🔍Research Highlights
-- **Embodied AI Physics-informed Visual Computing**: &nbsp; Including visual-language-action model, scence geneation, dynamic rendering. 
+- **Embodied AI**: &nbsp; Including visual-language-action model, scence geneation, dynamic rendering. 
 - **Physics-informed Visual Computing**: &nbsp; Including novel view synthesis, physics-informed dynamic and data-driven inverse problem. 
 - **Multimodal Content Generation and Understanding**: &nbsp; Including humanoid motion generation, video generation, low-rank learning of large models and mixture of expert systems.
 

@@ -26,6 +26,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
 <span class='anchor' id='-news'></span>
 
 # 🔥 News 
+- *2025.05*: &nbsp;🎉 Oure paper is selected as Oral by ICME2025.
 - *2025.05*: &nbsp;🎉 Awarded the Huawei Spark Award for technical contributions to challenging problems in artificial intelligence.
 - *2025.05*: &nbsp;🎉 A conference paper is accepted by ICML2025.
 - *2025.04*: &nbsp;🎉 A conference paper completed by undergraduate interns is accepted by IEEE IJCNN2025.
@@ -94,7 +95,7 @@ Rui Du</li>
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  ICME2025
+  ICME2025 (Oral)
 </code> <code class="language-plaintext highlighter-rouge" 
       style="background-color:rgb(236, 236, 233); 
              color:rgb(76, 59, 226); 
@@ -156,7 +157,7 @@ Rui Du</li>
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  CVPR2022
+  CVPR2022 (Oral)
 </code> <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Occlusion-Robust_Face_Alignment_Using_a_Viewpoint-Invariant_Hierarchical_Network_Architecture_CVPR_2022_paper.pdf">Occlusion-robust face alignment using a viewpoint-invariant hierarchical network architecture</a>. <strong>Congcong Zhu</strong>, Xintong Wan, Shaorong Xie, Xiaoqiang Li, Yinzheng Gu </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
@@ -184,7 +185,7 @@ Rui Du</li>
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  AAAI2020
+  AAAI2020 (Spotlight)
 </code> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/7011">Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos</a>. <strong>Congcong Zhu</strong>, Hao Liu, Zhenhua Yu, Xuehong Sun. </li>
 </ul>
 

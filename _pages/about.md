@@ -61,6 +61,23 @@ I have published in several journals, such as IEEE Transactions on Image Process
 
   
 <ul>
+
+  <li><code class="language-plaintext highlighter-rouge" 
+      style="background-color: #001f3f; 
+             color: #ffffff; 
+             padding: 2px 4px; 
+             border-radius: 4px;">
+  AAAI2026
+</code><code class="language-plaintext highlighter-rouge" 
+      style="background-color:rgb(236, 236, 233); 
+             color:rgb(76, 59, 226); 
+             padding: 2px 4px; 
+             border-radius: 4px;">
+ <a href="https://github.com/SCAILab-USTC/Physics-Informed-Deformable-Gaussian-Splatting">Code</a> 
+</code> 
+ <a href="https://arxiv.org/pdf/2505.10930">Physics-Informed Deformable Gaussian Splatting: Towards Unified Constitutive Laws for Time-Evolving Material Field</a>. <strong>Haoqin Hong<strong>, <strong>Ding Fan<strong>, Fubin Dou, Zhi-Li Zhou, Haoran Sun, Congcong Zhu*, Jingrun Chen*
+</li>
+
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
              color: #ffffff; 
@@ -82,10 +99,10 @@ I have published in several journals, such as IEEE Transactions on Image Process
       style="background-color: #001f3f; 
              color: #ffffff; 
              padding: 2px 4px; 
-             border-radius: 4px;">
+             border-radius: 4px;"> 
   IJCNN2025
 </code>
- Toward Invisible Region Restoration for Single-View 3D Face Reconstruction. Zhijing Cheng,
+ <a href="https://vimeo.com/1095993656">Toward Invisible Region Restoration for Single-View 3D Face Reconstruction. Zhijing Cheng,
 YuQing Wen,
 <strong>Congcong Zhu*</strong>,
 Rui Du</li>

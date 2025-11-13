@@ -102,7 +102,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
              padding: 2px 4px; 
              border-radius: 4px;"> 
   IJCNN2025
-</code> <a href="https://vimeo.com/1095993656">Toward Invisible Region Restoration for Single-View 3D Face Reconstruction. Zhijing Cheng, YuQing Wen, <strong>Congcong Zhu*</strong>, Rui Du </li>
+</code> <a href="https://vimeo.com/1095993656">Toward Invisible Region Restoration for Single-View 3D Face Reconstruction</a>. Zhijing Cheng, YuQing Wen, <strong>Congcong Zhu*</strong>, Rui Du </li>
 
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

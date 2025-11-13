@@ -76,7 +76,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
              border-radius: 4px;">
  <a href="https://github.com/SCAILab-USTC/Physics-Informed-Deformable-Gaussian-Splatting">Code</a> 
 </code> 
- <a href="https://arxiv.org/pdf/2505.10930">Physics-Informed Deformable Gaussian Splatting: Towards Unified Constitutive Laws for Time-Evolving Material Field</a>. <strong>Haoqin Hong</strong>, <strong>Ding Fan</strong>, Fubin Dou, Zhi-Li Zhou, Haoran Sun, Congcong Zhu*, Jingrun Chen*
+ <a href="https://arxiv.org/pdf/2505.10930">Physics-Informed Deformable Gaussian Splatting: Towards Unified Constitutive Laws for Time-Evolving Material Field</a>. <strong>Haoqin Hong</strong>, <strong>Ding Fan</strong>, Fubin Dou, Zhi-Li Zhou, Haoran Sun, <strong>Congcong Zhu*</strong>, Jingrun Chen*
  </li>
 
   <li><code class="language-plaintext highlighter-rouge" 

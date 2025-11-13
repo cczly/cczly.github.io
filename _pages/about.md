@@ -26,6 +26,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
 <span class='anchor' id='-news'></span>
 
 # 🔥 News 
+- *2025.11*: &nbsp;🎉 A conference paper is accepted by AAAI2026.
 - *2025.05*: &nbsp;🎉 Oure paper is selected as Oral by ICME2025.
 - *2025.05*: &nbsp;🎉 Awarded the Huawei Spark Award for technical contributions to challenging problems in artificial intelligence.
 - *2025.05*: &nbsp;🎉 A conference paper is accepted by ICML2025.

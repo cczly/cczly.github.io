@@ -33,11 +33,6 @@ I have published in several journals, such as IEEE Transactions on Image Process
 - *2025.04*: &nbsp;🎉 A conference paper completed by undergraduate interns is accepted by IEEE IJCNN2025.
 - *2025.03*: &nbsp;🎉 A conference paper is accepted by IEEE ICME2025.
 - *2025.01*: &nbsp;🎉 Promoted to Associate Researcher (master supervisor).
-- *2024.06*: &nbsp;🎉 Received the Youth Fund from the Jiangsu Province Basic Research Program.
-- *2024.06*: &nbsp;🎉 A journal article is accepted by IEEE TCSVT.
-- *2024.01*: &nbsp;🎉 A journal article is accepted by IEEE TIP.
-- *2023.12*: &nbsp;🎉 A conference paper is accepted by IEEE ICASSP2024.
-- *2023.07*: &nbsp;🎉 Received the Special Fund of The China Postdoctoral Science Foundation. 
 
 # 🎖 Honors and Awards
 - **2025**:&nbsp;🎉 Huawei Spark Prize（华为火花奖）.

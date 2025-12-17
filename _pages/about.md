@@ -159,7 +159,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  PR
+  Pattern Recognit.
 </code> <a href="https://arxiv.org/pdf/2112.10087">Reasoning structural relation for occlusion-robust facial landmark localization</a>. <strong>Congcong Zhu</strong>, Xiaoqiang Li, Jide Li, Songmin Dai, Weiqin Tong </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 
@@ -180,7 +180,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
              color: #ffffff; 
              padding: 2px 4px; 
              border-radius: 4px;">
-  PR
+  Pattern Recognit.
 </code> <a href="https://www.sciencedirect.com/science/article/pii/S0031320320301576">Learning spatial-temporal deformable networks for unconstrained face alignment and tracking in videos</a>. Hongyu Zhu, Hao Liu, <strong>Congcong Zhu</strong>, Zongyong Deng, Xuehong Sun. </li>
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

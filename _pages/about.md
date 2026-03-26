@@ -66,7 +66,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
              border-radius: 4px;">
   TNNLS
 </code>
- <a href="https://ieeexplore.ieee.org/abstract/document/11373586/">A2Net: Affiliation Alignment Networks for Whole-Body Pose Estimation With Vision–Language Models</a>. <strong>Ling Lin, Yaoxing Wang, <strong>Congcong Zhu*</strong>, Jingrun Chen</li>
+ <a href="https://ieeexplore.ieee.org/abstract/document/11373586/">A2Net: Affiliation Alignment Networks for Whole-Body Pose Estimation With Vision–Language Models</a>. Ling Lin, Yaoxing Wang, <strong>Congcong Zhu*</strong>, Jingrun Chen</li>
 
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

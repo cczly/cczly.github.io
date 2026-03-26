@@ -26,6 +26,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
 <span class='anchor' id='-news'></span>
 
 # 🔥 News 
+- *2026.02*: &nbsp;🎉 A journal paper is accepted by TNNLS.
 - *2025.11*: &nbsp;🎉 A conference paper is accepted by AAAI2026.
 - *2025.05*: &nbsp;🎉 Oure paper is selected as Oral by ICME2025.
 - *2025.05*: &nbsp;🎉 Awarded the Huawei Spark Award for technical contributions to challenging problems in artificial intelligence.
@@ -57,6 +58,16 @@ I have published in several journals, such as IEEE Transactions on Image Process
 
   
 <ul>
+
+  <li><code class="language-plaintext highlighter-rouge" 
+      style="background-color: #001f3f; 
+             color: #ffffff; 
+             padding: 2px 4px; 
+             border-radius: 4px;">
+  TNNLS
+</code>
+ <a href="https://ieeexplore.ieee.org/abstract/document/11373586/">A2Net: Affiliation Alignment Networks for Whole-Body Pose Estimation With Vision–Language Models</a>. <strong>Ling Lin, Yaoxing Wang, <strong>Congcong Zhu*</strong>, Jingrun Chen
+ </li>
 
   <li><code class="language-plaintext highlighter-rouge" 
       style="background-color: #001f3f; 

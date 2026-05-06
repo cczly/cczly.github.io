@@ -26,6 +26,7 @@ I have published in several journals, such as IEEE Transactions on Image Process
 <span class='anchor' id='-news'></span>
 
 # 🔥 News 
+- *2026.05*: &nbsp;🎉 A conference paper is accepted by ICML2026.
 - *2026.02*: &nbsp;🎉 A journal paper is accepted by TNNLS.
 - *2025.11*: &nbsp;🎉 A conference paper is accepted by AAAI2026.
 - *2025.05*: &nbsp;🎉 Oure paper is selected as Oral by ICME2025.

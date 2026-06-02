@@ -4,14 +4,19 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
           {% if page.url == "/zh/" %}
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/zh/#-about-me">主页</a></li>
+            <li class="masthead__menu-item"><a href="/zh/#-news">最新动态</a></li>
+            <li class="masthead__menu-item"><a href="/zh/#-honors-and-awards">荣誉奖励</a></li>
+            <li class="masthead__menu-item"><a href="/zh/#-research-highlights">研究方向</a></li>
+            <li class="masthead__menu-item"><a href="/zh/#-publications">代表成果</a></li>
             <li class="masthead__menu-item masthead__menu-item--lang"><a href="/">English</a></li>
           {% else %}
-            <li class="masthead__menu-item masthead__menu-item--lang"><a href="/zh/">中文版</a></li>
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="/#-about-me">Homepage</a></li>
+            {% for link in site.data.navigation.main %}
+              <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+            <li class="masthead__menu-item masthead__menu-item--lang"><a href="/zh/">中文</a></li>
           {% endif %}
         </ul>
         <ul class="hidden-links hidden"></ul>

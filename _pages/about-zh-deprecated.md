@@ -1,8 +1,9 @@
 ---
-permalink: /zh/
+permalink: /zh-deprecated/
 title: ""
 excerpt: ""
 author_profile: true
+published: false
 redirect_from:
   - /zh/index.html
 ---

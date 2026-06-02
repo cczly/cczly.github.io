@@ -63,17 +63,17 @@ honors:
 
 research:
   - title_en: "Embodied AI"
-    desc_en: "World Action Models, Physic Engine, Dynamic Rendering."
-    title_zh: "具身人工智能"
-    desc_zh: "世界动作模型、物理引擎研发、动态渲染。"
-  - title_en: "Data Synthesis for Robotics"
-    desc_en: "Manipulation data Generation, World Model, Unified Action Representation."
-    title_zh: "机器人数据生成"
-    desc_zh: "操作数据生成、世界模型、统一动作表示。"
+    desc_en: "World Action Models, Manipulation data Generation,  Unified Action Representation."
+    title_zh: "具身智能"
+    desc_zh: "世界动作模型、操作数据生成、统一的动作表示。"
+  - title_en: "Physics Simulation for Robotics"
+    desc_en: "Physic Engine, Dynamic Rendering, World Model."
+    title_zh: "机器人物理仿真"
+    desc_zh: "物理引擎、动力学渲染、世界模型。" 
   - title_en: "Physics-informed Neural Dynamics"
-    desc_en: "Physics-informed dynamic modeling, Neural Simulator and data-driven Inverse Problems."
-    title_zh: "物理先验神经动力学"
-    desc_zh: "物理先验动力学建模、神经仿真器、数据驱动的反问题。"
+    desc_en: "Physics-informed Neural Simulator, Data-driven Inverse Problems."
+    title_zh: "物理神经动力学"
+    desc_zh: "物理启发的神经仿真器、数据驱动的反问题。"
 
 
 publications:

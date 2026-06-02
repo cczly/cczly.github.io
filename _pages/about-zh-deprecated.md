@@ -4,8 +4,6 @@ title: ""
 excerpt: ""
 author_profile: true
 published: false
-redirect_from:
-  - /zh/index.html
 ---
 
 <span class='anchor' id='-about-me'></span>

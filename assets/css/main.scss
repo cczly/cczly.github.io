@@ -108,6 +108,40 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.publication-list--en {
+    padding-left: 0;
+    list-style: none;
+
+    li {
+        margin-bottom: .85em;
+    }
+}
+
+.pub-badge,
+.pub-link {
+    display: inline-block;
+    margin: 0 .25em .25em 0;
+    padding: .1em .45em;
+    border-radius: 4px;
+    font-size: .82em;
+    font-weight: 700;
+    line-height: 1.45;
+    white-space: nowrap;
+}
+
+.pub-badge {
+    background-color: #001f3f;
+    color: #fff;
+}
+
+.pub-link {
+    background-color: #ecece9;
+
+    a {
+        color: #4c3be2;
+    }
+}
+
 .zh-page {
     color: #3f474f;
     font-size: .98em;
@@ -273,29 +307,8 @@ h1:before, .anchor:before {
         color: #5b6570;
     }
 
-    .pub-badge,
-    .pub-link {
-        display: inline-block;
-        margin: 0 .28em .22em 0;
-        padding: .12em .48em;
-        border-radius: 4px;
-        font-size: .78em;
-        font-weight: 700;
-        line-height: 1.45;
-        white-space: nowrap;
-    }
-
     .pub-badge {
         background-color: #0b2d4d;
-        color: #fff;
-    }
-
-    .pub-link {
-        background-color: #eef0f2;
-
-        a {
-            color: #3b4cc0;
-        }
     }
 
     @media (max-width: 720px) {

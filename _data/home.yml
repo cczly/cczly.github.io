@@ -65,7 +65,7 @@ research:
   - title_en: "Embodied AI"
     desc_en: "World Action Models, Manipulation data Generation,  Unified Action Representation."
     title_zh: "具身智能"
-    desc_zh: "世界动作模型、操作数据生成、统一的动作表示。"
+    desc_zh: "世界动作模型、操作数据生成、统一动作表示。"
   - title_en: "Physics Simulation for Robotics"
     desc_en: "Physic Engine, Dynamic Rendering, World Model."
     title_zh: "机器人物理仿真"

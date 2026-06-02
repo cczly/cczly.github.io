@@ -1,4 +1,10 @@
-<script src="assets/js/main.min.js"></script>
+<script src="/assets/js/main.min.js"></script>
+
+<script>
+  $(function() {
+    $('a[href="/zh/"], a[href="/"]').off('click.smoothscroll');
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

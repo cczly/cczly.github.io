@@ -17,6 +17,16 @@ redirect_from:
 
 {% endfor %}
 
+<span class="anchor" id="-admissions"></span>
+
+# {{ home.admissions.title_en }}
+
+{{ home.admissions.summary_en }}
+
+{% for item in home.admissions.items %}
+- **{{ item.year }}** `{{ item.status_en }}`: {{ item.en }}
+{% endfor %}
+
 <span class="anchor" id="-news"></span>
 
 # News

@@ -47,6 +47,57 @@ author_profile: true
     border-bottom: 1px solid #e7ebef;
   }
 
+  .zh-admissions {
+    margin-top: 1.1em;
+    padding-top: 1.1em;
+    border-top: 1px solid #dce2e8;
+  }
+
+  .zh-admissions__summary {
+    margin: 0.2em 0 0.95em;
+    color: #65717c;
+  }
+
+  .zh-admissions-list {
+    display: grid;
+    gap: 0.85em;
+  }
+
+  .zh-admission-card {
+    padding: 0.95em 1em;
+    border: 1px solid #dfe5eb;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #fbfcfe 0%, #f6f9fc 100%);
+  }
+
+  .zh-admission-card__meta {
+    display: flex;
+    align-items: center;
+    gap: 0.65em;
+    margin-bottom: 0.45em;
+  }
+
+  .zh-admission-card__meta strong {
+    color: #1d4f8f;
+    font-size: 1.02em;
+  }
+
+  .zh-status-badge {
+    display: inline-block;
+    padding: 0.12em 0.52em;
+    border-radius: 999px;
+    background: #e7f1ff;
+    color: #1d4f8f;
+    font-size: 0.78em;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .zh-admission-card p {
+    margin: 0;
+    color: #2f3740;
+  }
+
   .zh-section__header {
     margin-bottom: 0.8em;
   }
@@ -212,6 +263,25 @@ author_profile: true
     {% for paragraph in home.profile.zh.paragraphs %}
       <p{% if forloop.index == 2 %} class="zh-lead"{% endif %}>{{ paragraph }}</p>
     {% endfor %}
+
+    <div class="zh-admissions">
+      <span class="anchor" id="-admissions"></span>
+      <div class="zh-section__header">
+        <h2>{{ home.admissions.title_zh }}</h2>
+      </div>
+      <p class="zh-admissions__summary">{{ home.admissions.summary_zh }}</p>
+      <div class="zh-admissions-list">
+        {% for item in home.admissions.items %}
+          <article class="zh-admission-card">
+            <div class="zh-admission-card__meta">
+              <strong>{{ item.year }}</strong>
+              <span class="zh-status-badge">{{ item.status_zh }}</span>
+            </div>
+            <p>{{ item.zh }}</p>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
   </header>
 
   <section class="zh-section" aria-labelledby="news-heading">

@@ -2,6 +2,7 @@ profile:
   en:
     name: "Congcong Zhu"
     paragraphs:
+      - "My research interests include Embodied AI, Physics Simulation for Robotics, Physics-informed Neural Dynamics. If you are seeking any form of academic cooperation, please feel free to email me at <strong>cczly@ustc.edu.cn</strong>. There are openings for <strong>PhD/master's students and interns</strong>."”
       - "I work at Suzhou Institute for Advanced Research, USTC as an Associate Researcher and master supervisor in Suzhou."
       - "My research interests include Embodied AI, Physics Simulation for Robotics, Physics-informed Neural Dynamics. If you are seeking any form of academic cooperation, please feel free to email me at <strong>cczly@ustc.edu.cn</strong>. There are openings for <strong>PhD/master's students and interns</strong>."
       - "I have published in journals such as IEEE Transactions on Image Processing, IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, and IEEE Transactions on Instrumentation and Measurement, and in conferences such as ICML, CVPR, ICCV, AAAI, and ACM MM."
@@ -12,6 +13,22 @@ profile:
       - "研究方向包括具身智能、机器人仿真、物理神经动力学等。"
       - "如果您希望开展学术合作，或正在寻找博士生、硕士生、科研实习等机会，欢迎邮件联系：<strong>cczly@ustc.edu.cn</strong>。"
 
+admissions:
+  title_en: "Latest Recommendation Admission Updates"
+  title_zh: "招生最新动态"
+  summary_en: "请注意：1.课题组以实现可实际落地的具身智能为目标，不以“paper”为目标，介意的请勿联系；2.课题组存在一些工程任务，介意的请勿联系；3.研究方向需围绕课题组核心任务进行，与导师确定后，不可随意更换；4.硕士生外出实习通常在研二下学期，需基本完成科研与实验室布置的任务。工程博士与国家重大项目绑定，完成协商的内容后可于博士三年级下外出实习。5.老师本人不好说话，进组需要做好心理建设。"
+  summary_zh: "请注意：1.课题组以实现可实际落地的具身智能为目标，不以“paper”为目标，介意的请勿联系；2.课题组存在一些工程任务，介意的请勿联系；3.研究方向需围绕课题组核心任务进行，与导师确定后，不可随意更换；4.硕士生外出实习通常在研二下学期，需基本完成科研与实验室布置的任务。工程博士与国家重大项目绑定，完成协商的内容后可于博士三年级下外出实习。5.老师本人不好说话，进组需要做好心理建设。"
+  items:
+    - year: "2028Fall"
+      status_en: "Now Open"
+      status_zh: "进行中"
+      en: "The 2028 recommendation admission cycle is now open. Students interested in Embodied AI, Robotics Simulation, and Physics-informed Intelligence are welcome to contact us by email with a CV, transcript, and a brief statement of interest."
+      zh: "2028 年推免招生现已启动，欢迎对具身智能、机器人仿真、物理启发智能感兴趣的同学通过邮件联系，并附上个人简历、成绩单和简要研究兴趣说明。"
+    - year: "2027Fall"
+      status_en: "Completed"
+      status_zh: "结束"
+      en: "The 2027 recommendation admission updates have been completed. "
+      zh: "2027的名额已经没有空缺，不用再联系，谢谢关注。"
 news:
   - date: "2026.05"
     en: "A conference paper is accepted by ICML 2026."
@@ -40,6 +57,8 @@ news:
   - date: "2025.01"
     en: "Promoted to Associate Researcher and master supervisor."
     zh: "晋升为副研究员、硕士生导师。"
+
+
 
 honors:
   - year: "2025"

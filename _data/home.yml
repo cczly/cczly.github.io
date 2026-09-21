@@ -28,6 +28,12 @@ admissions:
       zh: "2027的名额已经没有空缺，不用再联系，谢谢关注。"
 
 news:
+  - date: "2026.08"
+    en: "I have received funding from the National Natural Science Foundation of China’s Young Scientists Fund (Category C)"
+    zh: "我获得了国家自然科学基金青年C类项目的资助。"
+  - date: "2026.06"
+    en: "A conference paper is accepted by ECCV 2026."
+    zh: "一篇会议论文被 ECCV 2026 接收。"
   - date: "2026.05"
     en: "A conference paper is accepted by ICML 2026."
     zh: "一篇会议论文被 ICML 2026 接收。"

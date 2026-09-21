@@ -95,6 +95,16 @@ research:
 
 
 publications:
+  - venue: "ECCV 2026"
+    code_url: "https://github.com/yisuanwang/OVOW"
+    url: "https://arxiv.org/abs/2606.31388"
+    title: "One Video, One World: Turning Monocular Video into Physical 4D Scenes"
+    authors: "Junhao Chen, Boran Zhang, Mingjin Chen, Henghaofan Zhang, Saining Zhang, <strong>Congcong Zhu</strong>, Hao Zhao, Ruqi Huang*, Zhihao Li, Yufei Wang*"
+  - venue: "ICML 2026"
+    code_url: "https://github.com/SCAILab-USTC/MeshTok"
+    url: "https://arxiv.org/abs/2606.04366"
+    title: "MeshTok: Efficient Multi-Scale Tokenization for Scalable PDE Transformers"
+    authors: "Yanshun Zhao, Xiaoyu Peng, Jiamin Jiang, <strong>Congcong Zhu*</strong>, Jingrun Chen*"
   - venue: "TNNLS"
     url: "https://ieeexplore.ieee.org/abstract/document/11373586/"
     title: "A2Net: Affiliation Alignment Networks for Whole-Body Pose Estimation With Vision-Language Models"
